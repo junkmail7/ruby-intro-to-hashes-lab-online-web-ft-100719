@@ -13,3 +13,9 @@ def monopoly
 }
 end
 
+def monopoly
+  naruto = {
+  railroads: {}
+}
+end
+
