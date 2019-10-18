@@ -3,4 +3,7 @@ def new_hash
 end
 
 def actor
+  nu1={:name => "Dwayne The Rock Johnson"}
+  return nu1
+end
   
